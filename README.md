@@ -6,6 +6,8 @@ A mini project for understanding OpenGL (Computer Graphics - Class Assignment) (
 -----
 ![Alt Text](Assets/demo.gif)
 -----
+To run this demo, extract Debug.zip
+
 This project is built using Glut - [OpenGL Utility ToolKit](https://www.opengl.org/resources/libraries/glut/)
 
 > [GLut installation instrauctions](https://stackoverflow.com/a/20559229)
